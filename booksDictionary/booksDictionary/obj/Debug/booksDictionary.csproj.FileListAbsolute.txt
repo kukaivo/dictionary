@@ -1,0 +1,7 @@
+H:\DPP\#Week 3\Sarju\booksDictionary\booksDictionary\bin\Debug\booksDictionary.exe.config
+H:\DPP\#Week 3\Sarju\booksDictionary\booksDictionary\bin\Debug\booksDictionary.exe
+H:\DPP\#Week 3\Sarju\booksDictionary\booksDictionary\bin\Debug\booksDictionary.pdb
+H:\DPP\#Week 3\Sarju\booksDictionary\booksDictionary\obj\Debug\booksDictionary.csprojAssemblyReference.cache
+H:\DPP\#Week 3\Sarju\booksDictionary\booksDictionary\obj\Debug\booksDictionary.csproj.CoreCompileInputs.cache
+H:\DPP\#Week 3\Sarju\booksDictionary\booksDictionary\obj\Debug\booksDictionary.exe
+H:\DPP\#Week 3\Sarju\booksDictionary\booksDictionary\obj\Debug\booksDictionary.pdb
